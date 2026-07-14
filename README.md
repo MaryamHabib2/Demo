@@ -1,4 +1,5 @@
 #Basic Chatbot 
+
 def chatbot():
     print("ChatBot: Hello! Type 'bye' to exit.")
 
@@ -26,6 +27,5 @@ def chatbot():
 
         else:
             print("ChatBot: Sorry, I don't understand that.")
-
-# Run the chatbot
+            
 chatbot()
